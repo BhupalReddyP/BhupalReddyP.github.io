@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"","author":"","fileName":"Bhupal_MTech_10Yrs_wExp_Data_Science.pdf","bounds":[[909,1286]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
