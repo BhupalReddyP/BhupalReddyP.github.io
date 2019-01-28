@@ -1,0 +1,16 @@
+404:/robots.txt
+404:/favicon.ico
+404:/sitemap.xml
+404:/wordpress/
+404:/wordpress/2018/
+404:/wordpress/2018/12/
+404:/wordpress/2018/12/27/
+404:/wordpress/2019/
+404:/wordpress/2019/01/
+404:/wordpress/2019/01/03/
+400:/custom css/page/1
+400:/my templates/page/1
+404:/pages/page/1
+404:/pages/page/2
+404:/posts/page/1
+400:/contact forms/page/1
